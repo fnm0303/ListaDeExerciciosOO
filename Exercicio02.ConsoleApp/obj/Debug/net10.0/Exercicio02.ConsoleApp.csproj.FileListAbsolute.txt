@@ -1,0 +1,14 @@
+C:\Users\felip\OneDrive\Documentos\ARQUIVOS FELIPE\PROGRAMAS ACADEMIA DO PROGRAMADOR\ListaDeExerciciosOO\Exercicio02.ConsoleApp\bin\Debug\net10.0\Exercicio02.ConsoleApp.exe
+C:\Users\felip\OneDrive\Documentos\ARQUIVOS FELIPE\PROGRAMAS ACADEMIA DO PROGRAMADOR\ListaDeExerciciosOO\Exercicio02.ConsoleApp\bin\Debug\net10.0\Exercicio02.ConsoleApp.deps.json
+C:\Users\felip\OneDrive\Documentos\ARQUIVOS FELIPE\PROGRAMAS ACADEMIA DO PROGRAMADOR\ListaDeExerciciosOO\Exercicio02.ConsoleApp\bin\Debug\net10.0\Exercicio02.ConsoleApp.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\ARQUIVOS FELIPE\PROGRAMAS ACADEMIA DO PROGRAMADOR\ListaDeExerciciosOO\Exercicio02.ConsoleApp\bin\Debug\net10.0\Exercicio02.ConsoleApp.dll
+C:\Users\felip\OneDrive\Documentos\ARQUIVOS FELIPE\PROGRAMAS ACADEMIA DO PROGRAMADOR\ListaDeExerciciosOO\Exercicio02.ConsoleApp\bin\Debug\net10.0\Exercicio02.ConsoleApp.pdb
+C:\Users\felip\OneDrive\Documentos\ARQUIVOS FELIPE\PROGRAMAS ACADEMIA DO PROGRAMADOR\ListaDeExerciciosOO\Exercicio02.ConsoleApp\obj\Debug\net10.0\Exercicio02.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Documentos\ARQUIVOS FELIPE\PROGRAMAS ACADEMIA DO PROGRAMADOR\ListaDeExerciciosOO\Exercicio02.ConsoleApp\obj\Debug\net10.0\Exercicio02.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\ARQUIVOS FELIPE\PROGRAMAS ACADEMIA DO PROGRAMADOR\ListaDeExerciciosOO\Exercicio02.ConsoleApp\obj\Debug\net10.0\Exercicio02.ConsoleApp.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\ARQUIVOS FELIPE\PROGRAMAS ACADEMIA DO PROGRAMADOR\ListaDeExerciciosOO\Exercicio02.ConsoleApp\obj\Debug\net10.0\Exercicio02.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\ARQUIVOS FELIPE\PROGRAMAS ACADEMIA DO PROGRAMADOR\ListaDeExerciciosOO\Exercicio02.ConsoleApp\obj\Debug\net10.0\Exercicio02.ConsoleApp.dll
+C:\Users\felip\OneDrive\Documentos\ARQUIVOS FELIPE\PROGRAMAS ACADEMIA DO PROGRAMADOR\ListaDeExerciciosOO\Exercicio02.ConsoleApp\obj\Debug\net10.0\refint\Exercicio02.ConsoleApp.dll
+C:\Users\felip\OneDrive\Documentos\ARQUIVOS FELIPE\PROGRAMAS ACADEMIA DO PROGRAMADOR\ListaDeExerciciosOO\Exercicio02.ConsoleApp\obj\Debug\net10.0\Exercicio02.ConsoleApp.pdb
+C:\Users\felip\OneDrive\Documentos\ARQUIVOS FELIPE\PROGRAMAS ACADEMIA DO PROGRAMADOR\ListaDeExerciciosOO\Exercicio02.ConsoleApp\obj\Debug\net10.0\Exercicio02.ConsoleApp.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Documentos\ARQUIVOS FELIPE\PROGRAMAS ACADEMIA DO PROGRAMADOR\ListaDeExerciciosOO\Exercicio02.ConsoleApp\obj\Debug\net10.0\ref\Exercicio02.ConsoleApp.dll
